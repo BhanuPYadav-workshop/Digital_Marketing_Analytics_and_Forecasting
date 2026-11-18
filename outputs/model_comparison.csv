@@ -1,0 +1,5 @@
+model,validation_mae,holdout_mae,holdout_wape_pct,holdout_bias,selected_on_validation
+Last week,87.416667,202.437500,15.964316,-14.062500,False
+Four-week average,62.625000,176.078125,13.885603,-82.890625,False
+Same week last year,130.041667,122.000000,9.620977,-120.375000,False
+Calendar + lag ridge,54.278913,60.372206,4.760980,4.285449,True
